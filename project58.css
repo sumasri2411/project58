@@ -1,0 +1,16 @@
+body{
+ background-color:deeppink;
+  text-align:center;
+}
+h1{
+  text-shadow:2px 2px;
+  font-size:40px;
+}
+p{
+  padding:20x;
+  font-size:20px;
+  text-align:center;
+}
+img{
+  border-radius:50%
+    
